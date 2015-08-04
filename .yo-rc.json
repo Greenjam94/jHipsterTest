@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "jHipsterTest",
+    "packageName": "local.demo.test",
+    "packageFolder": "local/demo/test",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": false,
+    "rememberMeKey": "94aa74cc0e118c8ab0824ff1f730bc207b3d959e"
+  }
+}
